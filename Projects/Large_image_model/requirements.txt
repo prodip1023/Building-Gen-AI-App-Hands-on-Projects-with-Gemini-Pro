@@ -1,0 +1,11 @@
+ipykernel
+google-generativeai
+python-dotenv
+ipywidgets
+pandas
+numpy
+seaborn
+matplotlib
+openai
+openpyxl
+streamlit
