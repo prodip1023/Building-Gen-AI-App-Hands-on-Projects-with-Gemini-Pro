@@ -37,3 +37,6 @@ https://aistudio.google.com/app/prompts/new_chat
 # COOKBOOK 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](/Users/hackthebox/Downloads/Building-Gen-AI-App-Hands-on-Projects-with-Gemini-Pro/all_gemini_model.ipynb)
+
+- https://serper.dev/api-key
+- 
